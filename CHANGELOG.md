@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.31.6](https://www.github.com/googleapis/google-oauth-java-client/compare/v1.31.5...v1.31.6) (2021-05-14)
+
+
+### Bug Fixes
+
+* release scripts from issuing overlapping phases ([#664](https://www.github.com/googleapis/google-oauth-java-client/issues/664)) ([60fec2b](https://www.github.com/googleapis/google-oauth-java-client/commit/60fec2b9bbd5d632dff155a45a2ed0fa2f261c45))
+
 ### [1.31.5](https://www.github.com/googleapis/google-oauth-java-client/compare/v1.31.4...v1.31.5) (2021-04-09)
 
 
